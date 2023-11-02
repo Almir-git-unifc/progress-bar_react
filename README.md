@@ -1,4 +1,4 @@
-progress_bar-react
+<h1>progress_bar-react</h1>
 
 ======================================
 Progress bar, horizontal, made in React Vite, for loading progress status of images, quizz, and others
@@ -38,9 +38,9 @@ Progress bar, horizontal, made in React Vite, for loading progress status of ima
 
 # Intro <a name = "Intro"></a>
 
-This project was previously developed for 'xxxxxxxxxx', found on YouTube with the title """ Progress Bar in React Js """.
+This project was previously developed for 'Devops Developer', found on YouTube with the title """ Progress Bar in React Js """.
 
- However, during my development the main change is that xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ...
+However, during my development the main change I made was to use different colors for different levels of progress; for example, up to 50% red color, and in addition green color.
 
 <!-- 
 Layout de site responsivo, simples, criado com código html, css e javascript; usando regra de mídia, barra de rolagem, ícone de sanduíche e menu deslizante 
@@ -49,16 +49,16 @@ Layout de site responsivo, simples, criado com código html, css e javascript; u
 
 
 # Feature <a name = "Feature"></a>
-- Form peoples xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-- Responsive layout xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- react component
+- progressbar
 
 
 &nbsp;
 # Technologies <a name = "Technologies"></a>
 
-In youtube's video this project was developed with Html, CSS.
+In youtube's video this project was developed with Html, CSS in React.js.
 
-However, during my development the main change is that I xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+However, during my development the main change is that I used React VITE.
 
 # Built With 
 ![React](https://img.shields.io/badge/react-%23FA7343.svg?style=for-the-badge&logo=react&logoColor=%23000080)
@@ -78,7 +78,7 @@ From your command line:
 ```
 &nbsp;
 ## Clone this repository or download zip folder
-### $ `https://github.com/Almir-git-unifc/form-people_front-in_vite-html-css.git`
+### $ `https://github.com/Almir-git-unifc/react-progress_bar.git`
 
 
 &nbsp;

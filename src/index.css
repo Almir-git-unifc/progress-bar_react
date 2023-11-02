@@ -22,9 +22,10 @@
   background-color: #fff;
 }
 
+
 .progressbarfill{
   height: 100%;
-  border-radius: 50px;
+  border-radius: 50px; 
   background-color: green;  
   transition: width 0.5 easy-out;
   color: #fff;
