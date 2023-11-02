@@ -1,6 +1,6 @@
 <h1>progress_bar-react</h1>
 
-======================================
+
 Progress bar, horizontal, made in React Vite, for loading progress status of images, quizz, and others
 
 ---------------------------------------------------------------------------------------------------------
@@ -8,7 +8,7 @@ Progress bar, horizontal, made in React Vite, for loading progress status of ima
 
  
 <h3 align="center"> 
-	 STATUS:  🚧  React VITE 🚀 App under construction ...  🚧  
+	 STATUS: 🔔  React VITE 🚀  App:   Finished ...  🎯  
 </h3>
 
 
@@ -18,7 +18,7 @@ Progress bar, horizontal, made in React Vite, for loading progress status of ima
 --------------------------------------------------------------------------------------
 
 
-![LINK CRUD Image](https://image.png)
+![Progress Bar](https://github.com/Almir-git-unifc/react-progress_bar/blob/main/screenprogbar.png)
 
 
 --------------------------------------------------------------------------------------

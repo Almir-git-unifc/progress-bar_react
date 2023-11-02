@@ -12,6 +12,12 @@ export default function Progressbar({initialValue=0}) {
             setTimeout( ()=> setPercent(newval => newval + 1), 100 );
 
             // Abaixo percent < 50 é limite de sua classificação
+            if(percent < 50){
+              document.querySelector('.progressbarfill').style.backgroundColor = 'red';
+            }
+            else{
+              document.querySelector('.progressbarfill').style.backgroundColor = 'green';
+            }            
 
           }
         }, [percent, idPercent] );
