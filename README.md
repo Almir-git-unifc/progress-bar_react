@@ -1,7 +1,7 @@
 <h1>progress_bar-react</h1>
 
 
-Progress bar, horizontal, made in React Vite, for loading progress status of images, quizz, and others
+Progress bar inline made in React Vite, for loading progress status of images, quizz, and others.
 
 ---------------------------------------------------------------------------------------------------------
 
